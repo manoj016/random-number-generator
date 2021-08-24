@@ -1,0 +1,23 @@
+{
+  "name": "random-number-generator",
+  "version": "0.0.0-semantically-released",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [],
+  "author": "Manoj Kumar Maharana <manoj@quartic.ai>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manoj016/random-number-generator.git"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.4.6"
+  }
+}
