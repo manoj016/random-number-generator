@@ -4,5 +4,5 @@ function randomNoGenerator(min, max) {
   }
  return (Math.random() * (max-min)) + min;
 }
-module.exports = randomNoGenerator;
 
+module.exports = randomNoGenerator;
